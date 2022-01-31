@@ -1,0 +1,9 @@
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\bin\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.deps.json
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\bin\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.dll
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\bin\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.pdb
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\obj\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.csprojAssemblyReference.cache
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\obj\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.AssemblyInfoInputs.cache
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\obj\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.AssemblyInfo.cs
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\obj\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.csproj.CoreCompileInputs.cache
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\obj\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.dll
+E:\mintic\ProyectoR.APP\ProyectoR.APP.Dominio\obj\MCD\Debug\netstandard2.0\ProyectoR.APP.Dominio.pdb

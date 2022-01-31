@@ -1,0 +1,12 @@
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\bin\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.deps.json
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\bin\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.dll
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\bin\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.pdb
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\bin\MCD\Debug\netstandard2.1\ProyectoR.APP.Dominio.dll
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\bin\MCD\Debug\netstandard2.1\ProyectoR.APP.Dominio.pdb
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\obj\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.csprojAssemblyReference.cache
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\obj\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.AssemblyInfoInputs.cache
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\obj\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.AssemblyInfo.cs
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\obj\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.csproj.CoreCompileInputs.cache
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\obj\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.csproj.CopyComplete
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\obj\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.dll
+E:\mintic\ProyectoR.APP\ProyectoR.App.Persistencia\obj\MCD\Debug\netstandard2.1\ProyectoR.APP.Persistencia.pdb

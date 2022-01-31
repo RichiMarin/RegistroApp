@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "edIZs0PHR4aYBQyCWs1NKWTZUyPqPWz9Cj+PMJDVxmW9/C0qlAM0bEz1PPareHLxvh5PIuJ4THe3x1cQOoYy1g==",
+  "success": true,
+  "projectFilePath": "E:\\mintic\\ProyectoR.APP\\ProyectoR.APP.Dominio\\ProyectoR.APP.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ricardo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ricardo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
